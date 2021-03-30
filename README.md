@@ -1,2 +1,2 @@
 # pytest-intro
-small pytest intro poryect
+small pytest intro project
